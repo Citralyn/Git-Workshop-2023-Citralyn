@@ -3,8 +3,9 @@ import math
 # all functions should take in a numerical value and return a numerical value
 # rename your function
 def func1(num_a):
-    # placeholder return, replace with your own function
-    return -1
+    square = num_a ** 2
+    total = square + 14
+    return total 
 
 def func2(num_b):
     # placeholder return, replace with your own function
